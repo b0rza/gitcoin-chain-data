@@ -1,9 +1,9 @@
 import { TChain } from "../../../types";
 import { daiIcon, ethIcon, opIcon, usdGloIcon } from "../../icons";
 
-export const optimism: TChain = {
+export const optimismSepolia: TChain = {
   id: 11155420,
-  name: "optimism",
+  name: "optimism-sepolia",
   prettyName: "OP Sepolia Testnet",
   type: "testnet",
   blockExplorer: "https://sepolia-optimism.etherscan.io/",
