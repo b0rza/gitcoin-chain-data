@@ -94,6 +94,18 @@ export const optimism: TChain = {
       },
       redstoneTokenId: "OP",
     },
+    {
+      code: "EURMQC",
+      icon: opIcon,
+      address: "0x03e40b289F0Ac75c01FB07acc5ea1F0085410eEB",
+      decimals: 6,
+      canVote: true,
+      priceSource: {
+        chainId: 1,
+        address: "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+      },
+      redstoneTokenId: "EURC",
+    },
   ],
   subscriptions: [
     {

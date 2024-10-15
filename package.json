@@ -1,5 +1,5 @@
 {
-  "name": "@gitcoin/gitcoin-chain-data",
+  "name": "@b0rza/gitcoin-chain-data",
   "version": "1.0.40",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gitcoinco/gitcoin-chain-data.git"
+    "url": "git+https://github.com/b0rza/gitcoin-chain-data.git"
   },
   "bugs": {
-    "url": "https://github.com/gitcoinco/gitcoin-chain-data/issues"
+    "url": "https://github.com/b0rza/gitcoin-chain-data/issues"
   },
   "tsup": {
     "entry": [
@@ -51,5 +51,5 @@
     "dts": true
   },
   "description": "A library for interacting with the Gitcoin chain data.",
-  "homepage": "https://github.com/gitcoinco/gitcoin-chain-data#readme"
+  "homepage": "https://github.com/b0rza/gitcoin-chain-data#readme"
 }
